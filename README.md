@@ -14,7 +14,7 @@ To run this project, you will need:
 ### Steps to Run
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/love-mishra/CPU-Scheduler.git](https://github.com/AryanPadhiar/cpu_scheduler.git)
+   git clone https://github.com/AryanPadhiar/cpu_scheduler.git
    cd cpu-scheduler
    ```
 
